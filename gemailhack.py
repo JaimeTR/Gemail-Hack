@@ -72,3 +72,5 @@ def login():
          else:
             print '[!] password not found => ' + password
 login()
+
+exit
